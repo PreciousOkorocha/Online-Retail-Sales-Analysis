@@ -44,10 +44,10 @@ The analysis focused on:
 - Customer spending was concentrated among a relatively small group of high-value customers.
 - The dataset exhibited a Pareto distribution, where a minority of customers and products generated most revenue.
 
-## Project Files https://drive.google.com/drive/folders/1NS9AnAw2Q4QUn45vOywTaRrMM7dIc7oK?usp=drive_link
-- online_retail_clean.csv – Cleaned dataset
-- Online_Retail_Project.ipynb – Jupyter Notebook containing data cleaning, EDA, visualizations, and insights
-- Summary_Report.pdf – One-page project summary
+## Project Files 
+- online_retail_clean.csv – Cleaned dataset https://drive.google.com/drive/folders/1NS9AnAw2Q4QUn45vOywTaRrMM7dIc7oK?usp=drive_link
+- Online_Retail_Project.ipynb – Jupyter Notebook containing data cleaning, EDA, visualizations, and insights https://drive.google.com/file/d/112o5mg_3LF-TYiX8L4JmWTNQRtCrBxhE/view?usp=sharing
+- Summary_Report.pdf – One-page project summary  https://drive.google.com/file/d/1g_9ltLFRTc0C_MBeqvwtlnsKvCJ0U2rg/view?usp=sharing
 
 ## Conclusion
 The project provides insights into customer behavior, product performance, and revenue distribution. The findings highlight opportunities for customer retention, product optimization, and market diversification.
